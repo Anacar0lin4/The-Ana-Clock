@@ -1,2 +1,2 @@
-# The-Ana-Clock
+# My-first-clock
 Meu primeiro relógio digital em py
